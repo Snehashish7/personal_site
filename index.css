@@ -1,0 +1,55 @@
+.body{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(image_Website1.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100%;
+}
+hr{
+    border-style: none;
+    border-top-style:dotted;
+    width:90%;
+    border-color: white;
+    border-width: 5px;
+}
+.edu{
+    color:#fff;
+}
+h3,h1{
+    color:#fff;
+    display: inline;/* does not take the whole width of the screen */
+}
+ul li{
+    color:white;
+}
+ol{
+    color:#fff;
+}
+ol li a{
+    text-decoration: none;
+    color:rgb(183, 216, 246);
+}
+a{
+    text-decoration: none;
+    color:rgb(183, 216, 246);
+}
+a:hover{
+    color:blue;
+    transition: 0.4s ease;
+}
+td{
+    color:#fff;
+   
+    padding-right: 20px;
+    padding-bottom: 5px;
+}
+th{
+    color:green;
+}
+h1:hover,h3:hover{
+    color:rgb(4, 133, 0);
+    transition: 0.4s ease;
+}
+label{
+    color:rgb(253, 210, 210);
+}

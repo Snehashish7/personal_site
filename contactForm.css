@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(image_Website1.jpg);
+}
+h2,p,label{
+    color:white;
+}
+.submitit{
+    background-color:rgb(3, 0, 167);
+    height:40px;
+    width:100px;
+}
+input,textarea{
+    background-color:rgb(233, 233, 255)
+}
